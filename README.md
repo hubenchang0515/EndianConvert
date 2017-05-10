@@ -61,7 +61,7 @@ little : 0x12345678
    big : 0x12345678
 little : 0x12345678
 ```
-In a End-Endian computer, this code will print:
+In a Big-Endian computer, this code will print:
 ```
    big : 0x12345678
 little : 0x78563412
